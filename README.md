@@ -1,1 +1,1 @@
-# data-scientist courseera
+# data-scientist
